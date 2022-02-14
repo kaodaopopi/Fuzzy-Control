@@ -2,10 +2,10 @@
 Example:    
 ![image](example.png)
 
-1. Membership function
+1.Membership function
 
 
-2. Fuzzy rule
+2.Fuzzy rule
 
 
-3. Simulation
+3.Simulation
