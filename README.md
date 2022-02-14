@@ -1,6 +1,6 @@
 # Fuzzy-Control
-Example:.
-![image](example.png).
+Example:    
+![image](example.png)
 
 1. Membership function
 
