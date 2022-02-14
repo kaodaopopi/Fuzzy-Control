@@ -9,7 +9,9 @@ Example:
 ![image](Png/U.png)   
 
 2.Fuzzy rule    
-![image](Rule.png)    
-![image](RuleTable.png)   
+![image](Png/Rule.png)    
+![image](Png/RuleTable.png)   
 
-3.Simulation
+3.Simulation    
+CASE:Theta 45° Theta dot 0°   
+![image](Png/Case.png)   
