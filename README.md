@@ -1,4 +1,7 @@
 # Fuzzy-Control
+Example:
+![example]
+
 1. Membership function
 
 
